@@ -1,0 +1,14 @@
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP1\TP Nº1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP1\TP Nº1\MiCalculadora\bin\Debug\MiCalculadora.exe
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP1\TP Nº1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP1\TP Nº1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP1\TP Nº1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP1\TP Nº1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP1\TP Nº1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP1\TP Nº1\MiCalculadora\obj\Debug\MiCalculadora.exe
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP1\TP Nº1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP1\TP Nº1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP1\TP Nº1\MiCalculadora\bin\Debug\Entidades.exe
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP1\TP Nº1\MiCalculadora\bin\Debug\Entidades.pdb
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP1\TP Nº1\MiCalculadora\bin\Debug\Entidades.exe.config
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP1\TP Nº1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete

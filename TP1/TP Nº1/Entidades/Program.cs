@@ -10,6 +10,7 @@ namespace Entidades
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

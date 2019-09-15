@@ -1,0 +1,7 @@
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP1\TP Nº1\Entidades\bin\Debug\Entidades.exe.config
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP1\TP Nº1\Entidades\bin\Debug\Entidades.exe
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP1\TP Nº1\Entidades\bin\Debug\Entidades.pdb
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP1\TP Nº1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP1\TP Nº1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP1\TP Nº1\Entidades\obj\Debug\Entidades.exe
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP1\TP Nº1\Entidades\obj\Debug\Entidades.pdb
