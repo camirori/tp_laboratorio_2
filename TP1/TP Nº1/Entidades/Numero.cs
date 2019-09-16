@@ -78,7 +78,7 @@ namespace Entidades
                     return "Valor inválido";
             }
             
-            return Convert.ToUInt32(binario, 2).ToString();
+            return Convert.ToUInt64(binario, 2).ToString();
         }
         /// <summary>
         /// Valida y convierte el número decimal entero positivo recibido a binario. 

@@ -87,7 +87,7 @@ namespace MiCalculadora
             {
                 if (baseActualDecimal)
                 {
-                    if(Convert.ToDouble(lblResultado.Text)>1E+18)
+                    if(Convert.ToDouble(lblResultado.Text)>Int64.MaxValue) 
                         MessageBox.Show("El numero es demasiado grande para convertir a binario", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     else
                     {
