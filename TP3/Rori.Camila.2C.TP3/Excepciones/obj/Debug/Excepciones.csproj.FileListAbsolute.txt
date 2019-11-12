@@ -1,6 +1,5 @@
 F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Excepciones\bin\Debug\Excepciones.dll
 F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Excepciones\bin\Debug\Excepciones.pdb
 F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
-F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
 F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Excepciones\obj\Debug\Excepciones.dll
 F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Excepciones\obj\Debug\Excepciones.pdb

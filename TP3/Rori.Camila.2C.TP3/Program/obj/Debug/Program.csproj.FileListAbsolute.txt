@@ -10,7 +10,6 @@ F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\t
 F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Program\bin\Debug\Excepciones.pdb
 F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Program\bin\Debug\Archivos.pdb
 F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Program\obj\Debug\Program.csprojAssemblyReference.cache
-F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
 F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Program\obj\Debug\Program.csproj.CopyComplete
 F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Program\obj\Debug\Program.exe
 F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Program\obj\Debug\Program.pdb

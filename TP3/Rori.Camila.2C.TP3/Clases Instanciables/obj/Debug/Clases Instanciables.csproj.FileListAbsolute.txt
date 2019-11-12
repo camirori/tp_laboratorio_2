@@ -7,7 +7,6 @@ F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\t
 F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
 F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Clases Instanciables\bin\Debug\Excepciones.pdb
 F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
-F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
 F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
 F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
 F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb

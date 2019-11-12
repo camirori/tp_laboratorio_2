@@ -39,6 +39,7 @@ namespace Clases_Instanciables
 
         }
         #endregion
+
         #region Metodos
         /// <summary>
         /// Constructor
@@ -98,6 +99,7 @@ namespace Clases_Instanciables
         }
 
         #endregion
+
         #region Operadores
         /// <summary>
         /// Una Universidad será igual a un Alumno si el mismo está inscripto en él.
