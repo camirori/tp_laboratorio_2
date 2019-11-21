@@ -1,0 +1,5 @@
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP4\Rori.Camila.2C.TP4\Entidades\bin\Debug\Entidades.dll
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP4\Rori.Camila.2C.TP4\Entidades\bin\Debug\Entidades.pdb
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP4\Rori.Camila.2C.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP4\Rori.Camila.2C.TP4\Entidades\obj\Debug\Entidades.dll
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP4\Rori.Camila.2C.TP4\Entidades\obj\Debug\Entidades.pdb
