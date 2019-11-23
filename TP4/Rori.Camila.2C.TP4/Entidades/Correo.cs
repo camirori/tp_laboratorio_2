@@ -24,6 +24,9 @@ namespace Entidades
             paquetes = new List<Paquete>();
         }
 
+        /// <summary>
+        /// Cierra todos los hilos activos
+        /// </summary>
         public void FinEntregas()
         {
             foreach(Thread hilo in mockPaquetes)
@@ -33,17 +36,30 @@ namespace Entidades
             }
         }
 
+        /// <summary>
+        /// Muestra los datos de la lista de paquetes
+        /// </summary>
+        /// <param name="elementos"></param>
+        /// <returns></returns>
         public string MostrarDatos(IMostrar<List<Paquete>> elementos)
         {
             string datos = "";
             foreach(Paquete p in ((Correo)elementos).Paquetes)
             {
                 datos+=string.Format("{0} para {1} ({2})\n", p.TrackingID, p.DireccionEntrega, p.Estado.ToString());
-                
+                //Lo deje como pide la consigna pero se podría reutilizar paquete.MostrarDatos y concatenar con el estado:
+                //datos += string.Format("{0} ({1})\n", p.MostrarDatos(p), p.Estado.ToString());
+
             }
             return datos;
         }
 
+        /// <summary>
+        /// Agrega un paquete a la lista de paquetes del correo controlando que no exista previamente
+        /// </summary>
+        /// <param name="c">Correo al que se agrega</param>
+        /// <param name="p">Paquete a agregar</param>
+        /// <returns>Correo</returns>
         public static Correo operator +(Correo c, Paquete p)
         {
             foreach(Paquete paquete in c.paquetes)

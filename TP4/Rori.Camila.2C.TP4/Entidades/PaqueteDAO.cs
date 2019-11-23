@@ -19,11 +19,17 @@ namespace Entidades
             comando = new SqlCommand();
             comando.Connection = conexion; 
             comando.CommandType = System.Data.CommandType.Text;
-            comando.Parameters.Add("@direccionEntrega");
-            comando.Parameters.Add("@trackingID");
+            comando.Parameters.Add("@direccionEntrega", System.Data.SqlDbType.VarChar);
+            comando.Parameters.Add("@trackingID", System.Data.SqlDbType.VarChar);
             comando.Parameters.AddWithValue("@alumno", "Camila Rori");
 
         }
+
+        /// <summary>
+        /// Guarda un objeto del tipo Paquete en una base de datos
+        /// </summary>
+        /// <param name="p">Objeto a guardar</param>
+        /// <returns></returns>
         public static bool Insertar(Paquete p)
         {
             try
@@ -51,12 +57,3 @@ namespace Entidades
         }
     }
 }
-
-/*
- * A. De surgir cualquier error con la carga de datos, se deberá lanzar una excepción tantas veces como sea
-necesario hasta llegar a la vista (formulario). A través de un MessageBox informar lo ocurrido al
-usuario de forma clara. De ser necesario, utilizar un evento para este fin.
-B. El campo alumno de la base de datos deberá contener el nombre del alumno que está realizando el
-TP.
-
-    */

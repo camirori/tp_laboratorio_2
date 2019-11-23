@@ -40,12 +40,20 @@ namespace Entidades
         #endregion
 
         #region Metodos
+        /// <summary>
+        /// Constructor
+        /// </summary>
+        /// <param name="direccionEntrega"></param>
+        /// <param name="trackingID"></param>
         public Paquete(string direccionEntrega, string trackingID)
         {
             this.direccionEntrega = direccionEntrega;
             this.trackingID = trackingID;
         }
 
+        /// <summary>
+        /// Cambia el estado del paquete y guarda los datos del mismo en una base de datos
+        /// </summary>
         public void MockCicloDeVida()
         {
             this.estado = EEstado.Ingresado;
@@ -67,11 +75,20 @@ namespace Entidades
 
         }
 
+        /// <summary>
+        /// Muestra la información del paquete
+        /// </summary>
+        /// <param name="elemento">Paquete cuyos datos se muestran</param>
+        /// <returns>Información del paquete</returns>
         public string MostrarDatos(IMostrar<Paquete> elemento)
         {
             Paquete p = (Paquete)elemento;
             return string.Format("{0} para {1}", p.trackingID, p.direccionEntrega);
         }
+        /// <summary>
+        /// Muestra la información del paquete
+        /// </summary>
+        /// <returns>Información del paquete</returns>
         public override string ToString()
         {
             /*La sobrecarga del método ToString retornará la información del paquete.
@@ -80,10 +97,22 @@ namespace Entidades
             return this.MostrarDatos(this);
         }
 
+        /// <summary>
+        /// Dos paquetes serán iguales siempre y cuando su Tracking ID sea el mismo
+        /// </summary>
+        /// <param name="p1"></param>
+        /// <param name="p2"></param>
+        /// <returns></returns>
         public static bool operator ==(Paquete p1, Paquete p2)
         {
             return (p1.trackingID == p2.trackingID);
         }
+        /// <summary>
+        /// Dos paquetes serán distintos siempre y cuando su Tracking ID sea distinto
+        /// </summary>
+        /// <param name="p1"></param>
+        /// <param name="p2"></param>
+        /// <returns></returns>
         public static bool operator !=(Paquete p1, Paquete p2)
         {
             return !(p1 == p2);

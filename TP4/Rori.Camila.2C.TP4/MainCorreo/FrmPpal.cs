@@ -22,6 +22,11 @@ namespace MainCorreo
             
         }
 
+        /// <summary>
+        /// Agrega un paquete al correo
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnAgregar_Click(object sender, EventArgs e)
         {
             Paquete paquete = new Paquete(txtDireccion.Text, mtxtTrackingID.Text);
@@ -43,6 +48,11 @@ namespace MainCorreo
             ActualizarEstados();
         }
 
+        /// <summary>
+        /// Actualiza la información de los paquetes mostrada
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void paq_InformaEstado(object sender, EventArgs e)
         {
             if (this.InvokeRequired)
@@ -56,6 +66,9 @@ namespace MainCorreo
             }
         }
 
+        /// <summary>
+        /// Actualiza los estados de los paquetes
+        /// </summary>
         private void ActualizarEstados()
         {
             lstEstadoEnViaje.Items.Clear();
@@ -78,16 +91,30 @@ namespace MainCorreo
             }
         }
 
-
+        /// <summary>
+        /// Mustra los datos del listado de paquetes y los guarda en un archivo
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnMostrarTodos_Click(object sender, EventArgs e)
         {
             this.MostrarInformacion<List<Paquete>>((IMostrar<List<Paquete>>)correo);
         }
 
+        /// <summary>
+        /// Mustra los datos de un paquete y lo guarda en un archivo
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void mostrarToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.MostrarInformacion<Paquete>((IMostrar<Paquete>)lstEstadoEntregado.SelectedItem);
         }
+        /// <summary>
+        /// Mustra los datos de un paquete o listado de paquetes y lo guarda en un archivo
+        /// </summary>
+        /// <typeparam name="T"></typeparam>
+        /// <param name="elemento"></param>
         private void MostrarInformacion<T>(IMostrar<T> elemento)
         {
             string datos = "";

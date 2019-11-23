@@ -1,0 +1,30 @@
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Program\bin\Debug\Program.exe.config
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Program\bin\Debug\Program.exe
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Program\bin\Debug\Program.pdb
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Program\bin\Debug\Clases Abstractas.dll
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Program\bin\Debug\Clases Instanciables.dll
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Program\bin\Debug\Excepciones.dll
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Program\bin\Debug\Archivos.dll
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Program\bin\Debug\Clases Abstractas.pdb
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Program\bin\Debug\Clases Instanciables.pdb
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Program\bin\Debug\Excepciones.pdb
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Program\bin\Debug\Archivos.pdb
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Program\obj\Debug\Program.csprojAssemblyReference.cache
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Program\obj\Debug\Program.csproj.CopyComplete
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Program\obj\Debug\Program.exe
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Program\obj\Debug\Program.pdb
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\RecuperatoriosTP\TP3\Rori.Camila.2C.TP3\Program\bin\Debug\Program.exe.config
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\RecuperatoriosTP\TP3\Rori.Camila.2C.TP3\Program\bin\Debug\Program.exe
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\RecuperatoriosTP\TP3\Rori.Camila.2C.TP3\Program\bin\Debug\Program.pdb
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\RecuperatoriosTP\TP3\Rori.Camila.2C.TP3\Program\bin\Debug\Clases Abstractas.dll
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\RecuperatoriosTP\TP3\Rori.Camila.2C.TP3\Program\bin\Debug\Clases Instanciables.dll
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\RecuperatoriosTP\TP3\Rori.Camila.2C.TP3\Program\bin\Debug\Excepciones.dll
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\RecuperatoriosTP\TP3\Rori.Camila.2C.TP3\Program\bin\Debug\Archivos.dll
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\RecuperatoriosTP\TP3\Rori.Camila.2C.TP3\Program\bin\Debug\Clases Abstractas.pdb
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\RecuperatoriosTP\TP3\Rori.Camila.2C.TP3\Program\bin\Debug\Clases Instanciables.pdb
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\RecuperatoriosTP\TP3\Rori.Camila.2C.TP3\Program\bin\Debug\Excepciones.pdb
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\RecuperatoriosTP\TP3\Rori.Camila.2C.TP3\Program\bin\Debug\Archivos.pdb
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\RecuperatoriosTP\TP3\Rori.Camila.2C.TP3\Program\obj\Debug\Program.csprojAssemblyReference.cache
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\RecuperatoriosTP\TP3\Rori.Camila.2C.TP3\Program\obj\Debug\Program.csproj.CopyComplete
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\RecuperatoriosTP\TP3\Rori.Camila.2C.TP3\Program\obj\Debug\Program.exe
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\RecuperatoriosTP\TP3\Rori.Camila.2C.TP3\Program\obj\Debug\Program.pdb

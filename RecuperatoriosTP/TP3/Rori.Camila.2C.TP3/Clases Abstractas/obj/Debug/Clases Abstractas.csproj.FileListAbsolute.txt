@@ -1,0 +1,8 @@
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+F:\Cami\Estudios\Facultad\Programación\02 Programacion_Laboratorio_2 - C#\git\tp_laboratorio_2\TP3\Rori.Camila.2C.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
